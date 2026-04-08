@@ -16,6 +16,7 @@ This project analyzes a dataset of possums using linear regression and logistic 
 - possum.csv
 - regression.py
 - test_regression.py
+- README.md
 
 ## Requirements
 - Python 3.10 or higher
