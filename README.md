@@ -11,6 +11,12 @@ This project analyzes a dataset of possums using linear regression and logistic 
 - Preprocess Pipeline
 - Tests source code
 
+## Project Structure
+- main.py
+- possum.csv
+- regression.py
+- test_regression.py
+
 ## Requirements
 - Python 3.10 or higher
 - PyCharm or Terminal
